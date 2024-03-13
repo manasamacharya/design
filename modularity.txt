@@ -1,3 +1,2 @@
 design evaluation criteria
 large software is devided into small components
-it has its own name and behaviour
